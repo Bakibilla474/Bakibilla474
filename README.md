@@ -6,7 +6,7 @@ I build practical projects to improve accessibility, responsive design, API inte
 
 ## Selected projects
 
-- [GitHub Repo Explorer](https://github.com/Bakibilla474/github-repo-explorer) — React and TypeScript app for searching and sorting GitHub repositories, with URL-synced filters, pagination, loading and error states, and a GitHub Actions build/deploy workflow.
+- [GitHub Repo Explorer demo](https://bakibilla474.github.io/github-repo-explorer/) · [source code](https://github.com/Bakibilla474/github-repo-explorer) — React and TypeScript app for searching and sorting GitHub repositories, with URL-synced filters, pagination, loading and error states, and a GitHub Actions build/deploy workflow.
 - [To-Do List](https://github.com/Bakibilla474/To-Do-List) — a browser-based task list with add, complete, and remove interactions.
 - [Spotify UI](https://github.com/Bakibilla474/Spotify-clone) — a responsive visual recreation of a music-player interface.
 - [Netflix landing page](https://github.com/Bakibilla474/Netflix-clone) — a responsive streaming-service landing-page concept.
